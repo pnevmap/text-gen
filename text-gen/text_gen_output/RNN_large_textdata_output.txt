@@ -1,0 +1,25 @@
+-------------------
+input chars = 
+ his eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion aki"
+predicted chars = 
+ng the stair and the state of the lead whom where the secket of the stair and who was a small pipper"
+-------------------
+input chars = 
+to the deep mystery through which we were groping and i found my attention wander so continually fro"
+predicted chars = 
+m the states of the street where i have a sond what i shall be the facte of the charch in the concim"
+-------------------
+input chars = 
+buried in his hands there was a long silence broken only by his heavy breathing and by the measured "
+predicted chars = 
+had been from doon of the strange of his lass and so the lest in one of the stat he was a small pitt"
+-------------------
+input chars = 
+ot swear that the door was closed mary and arthur were much interested and wished to see the famous "
+predicted chars = 
+and the man been upon the contraman the little dest of the lead who was starts in the companion of t"
+-------------------
+input chars = 
+"
+predicted chars = 
+ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
